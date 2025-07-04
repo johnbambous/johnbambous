@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnbambous
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity at Becode
+- 🌱 I’m currently learning Cybersecurity Analyst 
 - 💞️ I’m looking for my futur job ... SOC Analyst, Cybersecurity Analyst
 - ⚡ Hobbies : PADI diver, Bonsaï, Cybersecurity, Japan, Pond with Koï, Bamboo, Maples, Marine Biology, Botanical
 
